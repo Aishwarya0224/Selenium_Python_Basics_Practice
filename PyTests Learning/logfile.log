@@ -1,0 +1,4 @@
+2022-12-02 20:08:39,245 :INFO : test_editProfile :rahul
+2022-12-02 20:08:39,245 :INFO : test_editProfile :rahulshettyacademy.com
+2022-12-02 20:08:39,248 :ERROR : test_Logging :A Major error has happend
+2022-12-02 20:08:39,248 :CRITICAL : test_Logging :Critical issue
